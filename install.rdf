@@ -1,0 +1,23 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:em="http://www.mozilla.org/2004/em-rdf#">
+ <Description about="urn:mozilla:install-manifest">
+  <em:name>UIR Header</em:name>
+  <em:id>{8C99BA58-898D-55DA-8D2C-19FB7A8F84D1}</em:id>
+  <em:version>1.1</em:version>
+  <em:type>2</em:type>
+  <!-- Pale Moon -->
+  <em:targetApplication>
+   <Description>
+    <em:id>{8de7fcbb-c55c-4fbe-bfc5-fc555c87dbc4}</em:id>
+    <em:minVersion>25.0a1pre</em:minVersion>
+    <em:maxVersion>27.*</em:maxVersion>
+   </Description>
+  </em:targetApplication>
+  <em:description>Add the Upgrade-Insecure-Requests header to all HTTP requests.</em:description>
+  <em:homepageURL>https://realityripple.com/Software/Mozilla-Extensions/UIR-Header/</em:homepageURL>
+  <em:updateURL>https://realityripple.com/Software/Mozilla-Extensions/UIR-Header/update.rdf</em:updateURL>
+  <em:iconURL>chrome://uirheader/skin/logo.png</em:iconURL>
+  <em:icon64URL>chrome://uirheader/skin/logo64.png</em:icon64URL>
+  <em:creator>RealityRipple</em:creator>
+ </Description>
+</RDF>
