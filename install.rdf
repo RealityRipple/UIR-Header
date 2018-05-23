@@ -19,5 +19,8 @@
   <em:iconURL>chrome://uirheader/skin/logo.png</em:iconURL>
   <em:icon64URL>chrome://uirheader/skin/logo64.png</em:icon64URL>
   <em:creator>RealityRipple</em:creator>
+  <em:translator>BabelZilla.org - This community is awesome.</em:translator>
+  <em:translator>Thank you to every active member, especially these guys:</em:translator>
+  <em:translator>[Lithuanian] Tomas D. Davainis</em:translator>
  </Description>
 </RDF>
