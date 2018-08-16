@@ -1,6 +1,6 @@
 if (!com) var com = {};
 if (!com.RealityRipple) com.RealityRipple = {};
-com.RealityRipple.UIRHrader = function()
+com.RealityRipple.UIRHeader = function()
 {
  var pub = {};
  var priv = {};
@@ -28,4 +28,4 @@ com.RealityRipple.UIRHrader = function()
  return pub;
 }();
 
-addEventListener("load", com.RealityRipple.UIRHrader.init, false);
+addEventListener("load", com.RealityRipple.UIRHeader.init, false);
